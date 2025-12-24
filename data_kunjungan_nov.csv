@@ -1,0 +1,118 @@
+NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA TEMPAT,KETERANGAN ,JENIS KEDATANGAN 
+1,1,Mas Edy,Paradiso Tour,,Semarang,55,,Reguler,0.15,,MGM Bu Yanti,Reservasi
+2,1,Sentolo Kulon Progo,,,Yogyakarta,38,,,,,,OTS
+3,1,Klaten,,,Klaten,35,,,,,,OTS
+4,1,Kaliungu,,,Kendal,72,,,,,,OTS
+5,2,Bu Yanti Genuk,,Bu Yanti,Semarang,40,,Reguler,0.15,Apung Bulat 10 Tikar,MGM Bu Yanti,Reservasi
+6,2,Event Yoga Nest,,082134699055,Magelang,20,,Jalan Pagi,,Taman Air,,Reservasi
+7,2,MDT Roudlatut Tholibiin,,085842828018,Pemalang,60,10,Reguler,0.15,,,Reservasi
+8,2,Ibu-Ibu Yasinan RT 8 Candiroto,,Margiyono,Temanggung,35,,Reguler,0.15,,MGM Margiyono,Reservasi
+9,2,Dawis Dahlia Sambiroto,,089529087892,Semarang,40,,,0.1,HTM Lama,HTM Lama,Reservasi
+10,2,Puskesmas Mlongo,,08112501718,Jepara,63,,Reguler,0.15,,Cancel,Reservasi
+11,2,Muntilan,,,Muntilan,21,,,,,,OTS
+12,2,Salatiga,,,Salatiga,23,,,,,,OTS
+13,2,Klaten,,,Klaten,23,,,,,,OTS
+14,2,Boyolali,,,Boyolali,19,,,,,,OTS
+15,2,Solo,,,Solo,77,,,,,,OTS
+16,2,Temanggung,,,Temanggung,40,,,,,,OTS
+17,2,Wonosobo,,,Wonosobo,23,,,,,,OTS
+18,4,SDN Rejowinangun Utara 5,,085725996120,Magelang,68,6,Reguler,0.5,,,Reservasi
+19,5,MI Sayung Ronggolawe,,,Demak,51,,,,,,OTS
+20,6,SD Gintungan Ungaran,,082325770582,Semarang,50,,Reguler,0.2,,,Reservasi
+21,6,SMP IT Ihsanul Fikri,,08155608173,Magelang,125,10,,0.15,Rumah Putih,,Reservasi
+22,7,SMA N 3,,085602877809,Magelang,70,,Camping,,(Gelanggang Check In),,Reservasi
+23,7,SMA N 3,,085602877809,Magelang,70,,Camping,,(Gelanggang Check Out),,Reservasi
+24,7,PP Brojowisnu,,082328312053,Purworejo,35,,,0.15,,,Reservasi
+25,7,Konco Dewe,,08157784890,Magelang,18,,Reguler,,,,Reservasi
+26,7,Mama Cantik,,081237809157,Boyolali,35,,Reguler,0.15,,,Reservasi
+27,7,Boyolali,,,Boyolali,36,,,,,,OTS
+28,9,Dawis Cempaka 3 Secang (Suyoto),,083109155705,Magelang,30, ,Reguler,0.15,,MGM Suyoto,Reservasi
+29,9,Trah Mbah Martorejo Bangunkerto Turi,,087820226328,Sleman Yogyakarta,54,,Reguler,0.15,Rumah Putih,,Reservasi
+30,9,PKK RW 03 Sekarsuli ,,088216405646,Klaten,40,,Reguler,0.15,,HTM Lama,Reservasi
+31,9,Abah Dhuha,,085641111367,Semarang,46,,Reguler,0.15,,,Reservasi
+32,9,Kampung Pedak,,085641730169,Bantul,64,,Reguler,0.15,Joglo Semar (10 Tikar),,Reservasi
+33,9,Candimulyo,,,Magelang,140,,Reguler,0.15,Gelanggang (Sound + 10 Tikar),,Reservasi
+34,9,PKK Tegalsari,,085643281113,Temanggung,17,,Reguler,,Apung Bulat,,Reservasi
+35,9,Muntilan,,,Magelang,17,,,,,,OTS
+36,9,Arisan RT1 Sawangan,,+6285701381410,Magelang,22,,,,,,Reservasi
+37,9,Temanggung,,,Temanggung,15,,,,,,OTS
+38,9,Solo,,,Solo,20,,,,,,OTS
+39,9,Klaten,,,Klaten,26,,,,,,OTS
+40,9,Kebumen,,,Kebumen,38,,,,,,OTS
+41,11,Bank Sampah Caturtunggal Memilah,,085729455405,Jogja,43,,Reguler,0.15,,,Reservasi
+42,11,Muhammadiyah 2 Muntilan,,083138968512,Magelang,60,,Reguler,0.15,Joglo Semar ,,Reservasi
+43,12,SD Kemirirejo 3,,,Magelang,75,,Edukasi,,,,OTS
+44,13,SD Cemoro Wonoboyo,,6.28574E+12,Temanggung,38,6,Reguler,0.15,Outbond,,Reservasi
+45,14,Salatiga,,,Salatiga,15,,,,,,OTS
+46,15,Dawis Durian 2,,085702013179,Solo,19,,Reguler,,,,Reservasi
+47,15,,MTC Jogja,08129809826,Yogyakarta,161,13,Reguler,0.15,Rumah Putih,,Reservasi
+48,15,KB Pasaranom Grabag,,085740335211,Purworejo,35,,Reguler,0.2,,,Reservasi
+49,16,Mbah Kalidin Genuk,,081325222427,Semarang,50,,Reguler,0.15,Joglo Semar,MGM Adry,Reservasi
+50,16,Cha Tour Organizer,,085865212110,Demak,50,,Reguler,0.2,,,Reservasi
+51,16,Toro Tour & Travel,,085640585753,Boyolali,46,,Reguler,0.2,,,Reservasi
+52,16,Asrikanto,,,Boyolali,34,,Reguler,0.15,,,Reservasi
+53,16,Yogyakarta,,,Yogyakarta,25,,,,,,OTS
+54,16,Bantul,,,Bantul,31,,,,,,OTS
+55,16,Jepara,,,Jepara,35,,,,,,OTS
+56,16,Sukoharjo,,,Sukoharjo,37,, ,,,,OTS
+57,16,Purworejo,,,Purworejo,14,, ,,,,OTS
+58,16,Pringsurat,,,Temanggung,22,,,,,,OTS
+59,16,Kutoarjo,,,Kutoarjo,15,,,,,,OTS
+60,16,Candiroto,,,Candiroto,41,,,,,,OTS
+61,16,Kendal,,,Kendal,66,,,,,,OTS
+62,16,Madukismo,,,Bantul,10,,,,,,OTS
+63,16,Semarang,,,Semarang,25,,,,,,OTS
+64,16,Galur Kulon Progo,,,Yogyakarta,30,,,,,,OTS
+65,16,Indramayu,,,Indramayu,40,,,,,,OTS
+66,19,Majelis Mujahadah,,,Magelang,56,,Reguler,,,,OTS
+67,19,Purworejo,,,Purworejo,25,,Reguler,,,,OTS
+68,20,SDN Ngrukeman Bantul,,+6281393712233,Yogyakarta,169,,Reguler,0.15,,,Reservasi
+69,20,TK Pertiwi Sawangan,,082133614584,Magelang,38,3,Reguler,0.15,,,Reservasi
+70,20,KB Amanah Seloprojo Ngablak,,082134136509,Magelang,34,,Reguler,0.1,HTM Lama,,Reservasi
+71,22,TK Lestari 03 Pakisan,,087879995034,Kendal,30,,Reguler,0.15,,,Reservasi
+72,22,SD Negeri Deru,,085257644754,Bojonegoro,40,,Reguler,0.1,HTM Lama,,Reservasi
+73,22,Year Book 9C SMP 7,,085292227760,Magelang,31,,Edukasi,0.5,,,Reservasi
+74,22,Walimurid TPQ Qurrota A'yun Dukun,,088975670077,Magelang,30,,Reguler,0.15,,,Reservasi
+75,22,PP As Syafiiyah Sudipayung Ngampel,,082220086287,Kendal,51,,Reguler,9,,,Reservasi
+76,22,Semarang,,,Semarang,45,,,,,,OTS
+77,22,Gunung Kidul,,,Yogyakarta,50,,,,,,OTS
+78,22,Klaten,,,Katen,27,,,,,,OTS
+79,22,Sleman,,,Yogyakarta,23,,,,,,OTS
+80,22,Bumiayu,,,Bumiayu,20,,,,,,OTS
+81,23,Guyup Rukun RT3 RW2 Sukorejo Gunung Pati,,085727092952,Semarang,90,,Reguler,0.15,Joglo Petruk (10 Tikar),,Reservasi
+82,23,PKK Sobayan RT 11,,081393781005,Klaten,78,,Reguler,0.15,,,Reservasi
+83,23,Trah Harjowongso Wates Kulon Progo,,082298097656,Yogyakarta,33,,Reguler,0.2,Joglo Semar,,Reservasi
+84,23,Ibu-ibu RT 10 RW 05 Tanjung Wedi,,085725477199,Klaten,36,,Reguler,0.15,,,Reservasi
+85,23,Nayoga Tour,,085225750094,Demak,50,,Reguler,0.15,,,Reservasi
+86,23,Mujo,,0895380195272,Salatiga,26,,Reguler,,,,Reservasi
+87,23,IGABA Ponjong Gunung Kidul,,082136372890,Yogyakarta,46,,Reguler,0.15,,,Reservasi
+88,23,Sleman,,,Yogyakarta,70,,,,,,OTS
+89,23,Sukorejo Semarang,,,Semarang,79,,,,,,OTS
+90,23,Klaten,,,Klaten,116,,,,,,OTS
+91,23,Getasan,,,Getasan,25,,,,,,OTS
+92,23,Pasar Kobong,,,Semarang,50,,,,,,OTS
+93,25,Lansia Sumber Waras Dudukulon Grabag,,085799632779,Purworejo,70,,Reguler,0.15,Rumah Putih (10 Tikar+Sound Portable),,Reservasi
+94,28,Kaloran,,081548979459,Temanggung,48,,Reguler,0.15,Gelanggang,,Reservasi
+95,29,CV Pelangi Wisata,,085801122232,Tegal,30,,Reguler,0.15,Sound Portable,,Reservasi
+96,29,,DC Tour,085227384556,Yogyakarta,21,,Reguler,,,,Reservasi
+97,30,Kader DS Peniron,,,Kebumen,33,,Reguler,0.15,,,OTS
+98,30,Kemiri Kutoarjo,,,Kutoarjo,33,,Reguler,0.15,,,OTS
+99,30,Baledono Purworejo,,,Purworejo,35,,Reguler,0.15,,,OTS
+100,30,Sleman,,,Yogyakarta,49,,Reguler,0.15,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
