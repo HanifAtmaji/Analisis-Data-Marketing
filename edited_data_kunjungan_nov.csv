@@ -6,7 +6,7 @@ NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA
 5,2,Bu Yanti Genuk,,085643446444,Semarang,40,,Reguler,0.15,Apung Bulat 10 Tikar,MGM Bu Yanti,Reservasi
 6,2,Event Yoga Nest,,082134699055,Magelang,20,,Jalan Pagi,,Taman Air,,Reservasi
 7,2,MDT Roudlatut Tholibiin,,085842828018,Pemalang,60,10,Reguler,0.15,,,Reservasi
-8,2,Ibu-Ibu Yasinan RT 8 Candiroto,,-85289057686,Temanggung,35,,Reguler,0.15,,MGM Margiyono,Reservasi
+8,2,Ibu-Ibu Yasinan RT 8 Candiroto,,085289057686,Temanggung,35,,Reguler,0.15,,MGM Margiyono,Reservasi
 9,2,Dawis Dahlia Sambiroto,,089529087892,Semarang,40,,,0.1,HTM Lama,HTM Lama,Reservasi
 10,2,Puskesmas Mlongo,,08112501718,Jepara,63,,Reguler,0.15,,Cancel,Reservasi
 11,2,Muntilan,,,Muntilan,21,,,,,,OTS
@@ -116,4 +116,5 @@ NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
+
 
