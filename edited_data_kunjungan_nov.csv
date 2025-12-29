@@ -3,10 +3,10 @@ NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA
 2,1,Sentolo Kulon Progo,,,Yogyakarta,38,,,,,,OTS
 3,1,Klaten,,,Klaten,35,,,,,,OTS
 4,1,Kaliungu,,,Kendal,72,,,,,,OTS
-5,2,Bu Yanti Genuk,,Bu Yanti,Semarang,40,,Reguler,0.15,Apung Bulat 10 Tikar,MGM Bu Yanti,Reservasi
+5,2,Bu Yanti Genuk,,085643446444,Semarang,40,,Reguler,0.15,Apung Bulat 10 Tikar,MGM Bu Yanti,Reservasi
 6,2,Event Yoga Nest,,082134699055,Magelang,20,,Jalan Pagi,,Taman Air,,Reservasi
 7,2,MDT Roudlatut Tholibiin,,085842828018,Pemalang,60,10,Reguler,0.15,,,Reservasi
-8,2,Ibu-Ibu Yasinan RT 8 Candiroto,,Margiyono,Temanggung,35,,Reguler,0.15,,MGM Margiyono,Reservasi
+8,2,Ibu-Ibu Yasinan RT 8 Candiroto,,-85289057686,Temanggung,35,,Reguler,0.15,,MGM Margiyono,Reservasi
 9,2,Dawis Dahlia Sambiroto,,089529087892,Semarang,40,,,0.1,HTM Lama,HTM Lama,Reservasi
 10,2,Puskesmas Mlongo,,08112501718,Jepara,63,,Reguler,0.15,,Cancel,Reservasi
 11,2,Muntilan,,,Muntilan,21,,,,,,OTS
@@ -34,7 +34,7 @@ NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA
 33,9,Candimulyo,,,Magelang,140,,Reguler,0.15,Gelanggang (Sound + 10 Tikar),,Reservasi
 34,9,PKK Tegalsari,,085643281113,Temanggung,17,,Reguler,,Apung Bulat,,Reservasi
 35,9,Muntilan,,,Magelang,17,,,,,,OTS
-36,9,Arisan RT1 Sawangan,,+6285701381410,Magelang,22,,,,,,Reservasi
+36,9,Arisan RT1 Sawangan,,085701381410,Magelang,22,,,,,,Reservasi
 37,9,Temanggung,,,Temanggung,15,,,,,,OTS
 38,9,Solo,,,Solo,20,,,,,,OTS
 39,9,Klaten,,,Klaten,26,,,,,,OTS
@@ -66,7 +66,7 @@ NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA
 65,16,Indramayu,,,Indramayu,40,,,,,,OTS
 66,19,Majelis Mujahadah,,,Magelang,56,,Reguler,,,,OTS
 67,19,Purworejo,,,Purworejo,25,,Reguler,,,,OTS
-68,20,SDN Ngrukeman Bantul,,+6281393712233,Yogyakarta,169,,Reguler,0.15,,,Reservasi
+68,20,SDN Ngrukeman Bantul,,081393712233,Yogyakarta,169,,Reguler,0.15,,,Reservasi
 69,20,TK Pertiwi Sawangan,,082133614584,Magelang,38,3,Reguler,0.15,,,Reservasi
 70,20,KB Amanah Seloprojo Ngablak,,082134136509,Magelang,34,,Reguler,0.1,HTM Lama,,Reservasi
 71,22,TK Lestari 03 Pakisan,,087879995034,Kendal,30,,Reguler,0.15,,,Reservasi
@@ -116,3 +116,4 @@ NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
+
