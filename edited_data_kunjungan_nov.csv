@@ -42,7 +42,7 @@ NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA
 41,11,Bank Sampah Caturtunggal Memilah,,085729455405,Jogja,43,,Reguler,0.15,,,Reservasi
 42,11,Muhammadiyah 2 Muntilan,,083138968512,Magelang,60,,Reguler,0.15,Joglo Semar ,,Reservasi
 43,12,SD Kemirirejo 3,,,Magelang,75,,Edukasi,,,,OTS
-44,13,SD Cemoro Wonoboyo,,6.28574E+12,Temanggung,38,6,Reguler,0.15,Outbond,,Reservasi
+44,13,SD Cemoro Wonoboyo,,,Temanggung,38,6,Reguler,0.15,Outbond,,Reservasi
 45,14,Salatiga,,,Salatiga,15,,,,,,OTS
 46,15,Dawis Durian 2,,085702013179,Solo,19,,Reguler,,,,Reservasi
 47,15,,MTC Jogja,08129809826,Yogyakarta,161,13,Reguler,0.15,Rumah Putih,,Reservasi
@@ -116,5 +116,6 @@ NO,tgl,NAMA ,BIRO,NO CP,ASAL ROMBONGAN ,JUMLAH ,FREE,JENIS ROMBONGAN,DISKON,SEWA
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
+
 
 
